@@ -2,8 +2,8 @@
 *
 * Copyright (c) 2025 ChipCraft Sp. z o.o. All rights reserved
 *
-* $Date: 2025-05-16 14:07:05 +0200 (Fri, 16 May 2025) $
-* $Revision: 1152 $
+* $Date: 2025-06-03 20:45:51 +0200 (wto, 03 cze 2025) $
+* $Revision: 1154 $
 *
 *  ----------------------------------------------------------------------
 * Redistribution and use in source and binary forms, with or without
