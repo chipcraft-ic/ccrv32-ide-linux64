@@ -2,8 +2,8 @@
 *
 * Copyright (c) 2019 ChipCraft Sp. z o.o. All rights reserved
 *
-* $Date: 2024-01-14 21:55:43 +0100 (nie, 14 sty 2024) $
-* $Revision: 1038 $
+* $Date: 2025-08-20 19:48:33 +0200 (śro, 20 sie 2025) $
+* $Revision: 1158 $
 *
 *  ----------------------------------------------------------------------
 * Redistribution and use in source and binary forms, with or without
@@ -60,6 +60,8 @@
 #define MAX2771_L1E1_CS         2
 #define MAX2771_L5E5_CS         1
 #define MAX2771_L2E6_CS         0
+
+#define FLASH_SPI_CS            4
 
 #endif //* _BOARD_DEFINES_H */
 
